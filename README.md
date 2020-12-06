@@ -6,3 +6,4 @@
 - npm run static-build to build app
 - dist/static is the folder to serve
 - npm run static-serve to serve build static files locally
+- use Header and footer components to make unified theme
