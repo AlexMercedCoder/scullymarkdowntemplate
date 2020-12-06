@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scully-markdown"
+    }
+  },
+  "defaultProject": "scully-markdown",
+  "cli": {
+    "analytics": "240a64a7-3912-4da7-aefb-71fa326c5d30"
+  }
 }
